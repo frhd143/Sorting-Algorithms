@@ -1,7 +1,5 @@
-"""
-    Skriven av Farhad Asadi
-    faas21@student.bth.se
-"""
+# Skriven av Farhad Asadi
+
 ###############  Quicksort  ###############
 import random
 
