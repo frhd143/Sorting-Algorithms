@@ -2,7 +2,7 @@
 This repository contains implementation of different sorting algorithms in Python. 
 
 ## Overview
-### Note! In order to test the code with large amount of data, I `random.sample`. You can basically remove those lines if you don't want them. 
+#### Note! In order to test the code with large amount of data, I used `random.sample` to generate these data. You can basically remove those lines if you don't want them. 
 
 The implemented algorithms include:
 
