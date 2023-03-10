@@ -2,7 +2,7 @@
 This repository contains implementation of different sorting algorithms in Python. 
 
 ## Overview
-#### Note! In order to test the code with large amount of data, I used `random.sample` to generate these data. You can basically remove those lines if you don't want them. 
+#### Note! In order to test the code with large amount of data, I used `random.sample` to generate these lists. You can basically remove those lines if you don't want them. 
 
 The implemented algorithms include:
 
@@ -11,4 +11,9 @@ The implemented algorithms include:
 - d-Heapsort
 - Merge Sort with insertion sort as a hybrid sort for small subarrays
 
-## Usage
+## Contributing
+Contributions to this project are welcome. If you find a bug or want to suggest an improvement, please open an issue or submit a pull request.
+Or email me here: f.asadi2002@gmail.com
+
+## License
+This code is released under the MIT License.
